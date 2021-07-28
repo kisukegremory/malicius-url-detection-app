@@ -10,3 +10,12 @@ So in terms of building what we need is to:
 - Model Saving
 - Flask API returning the probabilities
 - Flask WebApp returing the info and probabilities
+
+
+Ml:
+- notebooks/Modelling contains how the model was built
+- models/ where the pickle models stay
+
+App Setup:
+- go to app/
+- terminal: "flask run"
